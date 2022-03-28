@@ -15,19 +15,20 @@ img {
 }
 
 .page-link {
-    background: #00b0c8;
+    background-color: #292b2c;
     color: white;
 }
 
 .page-link:hover {
-    background: #008496;
+    background: #00abc2;
     color: white;
 }
 
 .card {
-    background-color: #00b0c8;
+    background-color: #292b2c;
     border-radius: 10px;
     border: #a0fd8ba4 solid 1px;
+    color: white;
 }
 
 .card:hover {
